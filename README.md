@@ -1,1 +1,1 @@
-# JS-Digital_Clock-project
+# Javascript-Digital_Clock-Project
